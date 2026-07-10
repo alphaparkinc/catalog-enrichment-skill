@@ -1,8 +1,8 @@
 {
   "name": "catalog-enrichment-skill",
   "version": "1.0.0",
-  "description": "Auto-enrich product catalogs by detecting missing attributes, generating standardized descriptions, inferring categories and tags, and scoring completeness.",
-  "author": "alphaparkinc",
+  "description": "GenPark AI Agent Skill - Auto-enrich product catalogs by detecting missing attributes, generating standardized descriptions, inferring categories and tags, and scoring completeness.",
+  "author": "genpark",
   "category": "data",
   "tags": [
     "catalog",
